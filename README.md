@@ -85,5 +85,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+   <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/virtualbox.svg" />
   </kbd>
  
