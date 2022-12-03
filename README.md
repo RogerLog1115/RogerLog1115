@@ -15,16 +15,16 @@ It is Roger Liao Github.
  
   </div>
    
-  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+<!--   ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-![Roger's Graph](https://activity-graph.herokuapp.com/graph?username=RogerLog1115&area=true&hide_border=true&theme=dracula)
+![Roger's Graph](https://activity-graph.herokuapp.com/graph?username=RogerLog1115&area=true&hide_border=true&theme=dracula) -->
 
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RogerLog1115&theme=dark" /> </p>
 
-![I use language](https://activity-graph.herokuapp.com/graph?username=RogerLog1115&area=true&hide_border=true&theme=dracula)
+<!-- ![I use language](https://activity-graph.herokuapp.com/graph?username=RogerLog1115&area=true&hide_border=true&theme=dracula) -->
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Programming Languages</kbd>
